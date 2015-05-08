@@ -3,7 +3,7 @@ Contributors: mikeselander
 Donate link: http://mikeselander.com
 Tags: wp_options, development, wp options table, edit, delete, add
 Requires at least: 3.4
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
